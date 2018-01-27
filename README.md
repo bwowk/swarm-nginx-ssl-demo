@@ -1,4 +1,4 @@
-# Swarm with 
+# Swarm with nginx and per-app SSL certificates
 Use nginx with different SSL certificates for each application on a docker swarm
 
 ---
