@@ -1,0 +1,100 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BR, ST=SP, L=Campinas, O=F\xC3\xA3-clube oficial Vitas, OU=Unidade Campinas, CN=Vitas Confia/name=Vitas/emailAddress=confia@vitas.com
+        Validity
+            Not Before: Jan 27 18:09:24 2018 GMT
+            Not After : Jan 25 18:09:24 2028 GMT
+        Subject: C=BR, ST=SP, L=Campinas, O=Demo, OU=Demo, CN=results.demo.com/name=Demo/emailAddress=results@demo.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b5:a8:d9:25:10:71:00:4a:cb:0a:24:7f:b6:47:
+                    39:6e:2e:2a:7e:55:88:12:38:8f:4f:6b:19:5a:52:
+                    69:8e:d1:8d:f9:52:0a:57:55:7c:3f:98:81:4c:4a:
+                    dd:b1:98:79:11:57:e7:95:9c:cb:f5:de:8a:7e:35:
+                    61:36:8a:b6:b4:71:ae:0f:e6:32:3d:cc:66:50:3b:
+                    ec:64:58:cd:67:78:d9:d0:f0:25:9f:7c:42:d2:39:
+                    5b:a4:e6:3c:b0:79:35:63:57:e0:a6:04:23:4c:ee:
+                    f7:6e:43:07:13:59:d1:79:a3:bc:70:31:9e:06:0a:
+                    23:b0:2f:4f:b2:e7:f5:54:30:57:eb:8e:cd:f2:8f:
+                    0b:fe:3b:db:20:c9:93:71:eb:b6:bc:bc:0e:d6:9d:
+                    3d:5f:1c:d3:98:e4:0b:44:9e:57:7e:a5:74:a9:5f:
+                    19:e4:d3:e9:e5:8a:92:48:f8:78:64:4c:b0:52:93:
+                    db:c9:f2:2e:93:03:5b:dd:75:29:d8:88:25:4e:1c:
+                    0b:09:13:a5:0c:ac:a3:90:58:22:89:a1:49:e5:29:
+                    37:bc:f0:3b:90:48:da:8f:b9:dc:11:66:48:3e:7c:
+                    e6:e3:0c:a0:5c:f1:7e:98:10:e2:60:cb:1a:8b:35:
+                    d8:23:d2:11:93:a6:b1:9a:13:7a:5d:06:9b:da:e5:
+                    83:f5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                0C:48:3A:B1:DE:7E:AC:87:4B:18:04:DE:F0:88:74:C3:24:8E:22:F7
+            X509v3 Authority Key Identifier: 
+                keyid:A0:28:40:BB:39:A9:75:1C:D1:EC:16:33:BE:20:A9:D4:9A:2E:C1:55
+                DirName:/C=BR/ST=SP/L=Campinas/O=F\xC3\xA3-clube oficial Vitas/OU=Unidade Campinas/CN=Vitas Confia/name=Vitas/emailAddress=confia@vitas.com
+                serial:8E:45:C3:7C:87:A4:A5:C9
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:results.demo.com
+    Signature Algorithm: sha256WithRSAEncryption
+         a6:b7:43:df:bd:cf:64:b7:3f:fe:6c:cd:9b:3c:36:75:4e:96:
+         f7:b3:f1:a7:10:12:80:39:c5:10:62:99:9a:79:32:3d:5c:76:
+         67:d5:43:77:b5:5c:23:ec:a8:11:21:e5:8b:46:7b:cb:cd:6f:
+         11:66:bc:a6:21:74:9a:c0:67:18:73:40:75:3a:19:f2:41:e6:
+         ef:47:93:75:35:3b:3b:10:57:65:c5:71:d8:73:70:77:5b:22:
+         2d:ea:dc:01:46:0c:92:e5:84:cc:0e:da:81:43:23:d8:7f:4d:
+         c3:31:af:e9:7a:62:f3:e2:ed:be:b4:50:3a:15:b6:c8:80:ac:
+         d2:73:a0:18:2b:ea:a4:6b:3f:c2:4c:0a:21:85:5c:ff:25:fa:
+         d6:35:b8:5d:2a:7b:e5:f1:be:bc:a0:db:1e:eb:41:68:cd:83:
+         74:69:ee:01:9f:48:d8:dd:2a:ec:88:01:f7:a5:db:fe:eb:de:
+         fc:f6:96:75:3e:01:c1:01:23:8d:6b:ae:ec:0b:62:40:ad:ef:
+         d8:2a:18:94:84:e1:cf:e8:53:3c:a7:91:a2:a8:2b:0d:a8:4c:
+         0b:7d:33:73:32:ca:7e:9c:82:0f:e3:af:5f:38:a9:92:20:58:
+         c2:e4:83:c8:f4:2d:f7:52:0f:45:22:07:1e:a5:5d:f9:0b:92:
+         e8:00:96:a7
+-----BEGIN CERTIFICATE-----
+MIIFZzCCBE+gAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBsjELMAkGA1UEBhMCQlIx
+CzAJBgNVBAgTAlNQMREwDwYDVQQHEwhDYW1waW5hczEgMB4GA1UEChQXRsOjLWNs
+dWJlIG9maWNpYWwgVml0YXMxGTAXBgNVBAsTEFVuaWRhZGUgQ2FtcGluYXMxFTAT
+BgNVBAMTDFZpdGFzIENvbmZpYTEOMAwGA1UEKRMFVml0YXMxHzAdBgkqhkiG9w0B
+CQEWEGNvbmZpYUB2aXRhcy5jb20wHhcNMTgwMTI3MTgwOTI0WhcNMjgwMTI1MTgw
+OTI0WjCBljELMAkGA1UEBhMCQlIxCzAJBgNVBAgTAlNQMREwDwYDVQQHEwhDYW1w
+aW5hczENMAsGA1UEChMERGVtbzENMAsGA1UECxMERGVtbzEZMBcGA1UEAxMQcmVz
+dWx0cy5kZW1vLmNvbTENMAsGA1UEKRMERGVtbzEfMB0GCSqGSIb3DQEJARYQcmVz
+dWx0c0BkZW1vLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALWo
+2SUQcQBKywokf7ZHOW4uKn5ViBI4j09rGVpSaY7RjflSCldVfD+YgUxK3bGYeRFX
+55Wcy/Xein41YTaKtrRxrg/mMj3MZlA77GRYzWd42dDwJZ98QtI5W6TmPLB5NWNX
+4KYEI0zu925DBxNZ0XmjvHAxngYKI7AvT7Ln9VQwV+uOzfKPC/472yDJk3Hrtry8
+DtadPV8c05jkC0SeV36ldKlfGeTT6eWKkkj4eGRMsFKT28nyLpMDW911KdiIJU4c
+CwkTpQyso5BYIomhSeUpN7zwO5BI2o+53BFmSD585uMMoFzxfpgQ4mDLGos12CPS
+EZOmsZoTel0Gm9rlg/UCAwEAAaOCAaAwggGcMAkGA1UdEwQCMAAwEQYJYIZIAYb4
+QgEBBAQDAgZAMDQGCWCGSAGG+EIBDQQnFiVFYXN5LVJTQSBHZW5lcmF0ZWQgU2Vy
+dmVyIENlcnRpZmljYXRlMB0GA1UdDgQWBBQMSDqx3n6sh0sYBN7wiHTDJI4i9zCB
+5wYDVR0jBIHfMIHcgBSgKEC7Oal1HNHsFjO+IKnUmi7BVaGBuKSBtTCBsjELMAkG
+A1UEBhMCQlIxCzAJBgNVBAgTAlNQMREwDwYDVQQHEwhDYW1waW5hczEgMB4GA1UE
+ChQXRsOjLWNsdWJlIG9maWNpYWwgVml0YXMxGTAXBgNVBAsTEFVuaWRhZGUgQ2Ft
+cGluYXMxFTATBgNVBAMTDFZpdGFzIENvbmZpYTEOMAwGA1UEKRMFVml0YXMxHzAd
+BgkqhkiG9w0BCQEWEGNvbmZpYUB2aXRhcy5jb22CCQCORcN8h6SlyTATBgNVHSUE
+DDAKBggrBgEFBQcDATALBgNVHQ8EBAMCBaAwGwYDVR0RBBQwEoIQcmVzdWx0cy5k
+ZW1vLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAprdD373PZLc//mzNmzw2dU6W97Px
+pxASgDnFEGKZmnkyPVx2Z9VDd7VcI+yoESHli0Z7y81vEWa8piF0msBnGHNAdToZ
+8kHm70eTdTU7OxBXZcVx2HNwd1siLercAUYMkuWEzA7agUMj2H9NwzGv6Xpi8+Lt
+vrRQOhW2yICs0nOgGCvqpGs/wkwKIYVc/yX61jW4XSp75fG+vKDbHutBaM2DdGnu
+AZ9I2N0q7IgB96Xb/uve/PaWdT4BwQEjjWuu7AtiQK3v2CoYlIThz+hTPKeRoqgr
+DahMC30zczLKfpyCD+OvXzipkiBYwuSDyPQt91IPRSIHHqVd+QuS6ACWpw==
+-----END CERTIFICATE-----
